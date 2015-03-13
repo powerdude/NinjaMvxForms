@@ -3,6 +3,9 @@
 //    Defines the MainViewModel type.
 // </summary>
 // --------------------------------------------------------------------------------------------------------------------
+
+using NinjaMvxForms.Core.Services;
+
 namespace NinjaMvxForms.Core.ViewModels
 {
     /// <summary>
@@ -10,6 +13,13 @@ namespace NinjaMvxForms.Core.ViewModels
     /// </summary>
     public class MainViewModel : BaseViewModel
     {
+        private IViewModelService _viewModelService;
+
+        public MainViewModel(IViewModelService viewModelService)
+        {
+            _viewModelService = viewModelService;
+        }
+
         /// <summary>
         /// The sample text.
         /// </summary>

@@ -1,20 +1,21 @@
 using Cirrious.MvvmCross.Touch.Views.Presenters;
 using NinjaMvxForms.Core.Services;
 using NinjaMvxForms.Forms;
+using NinjaMvxForms.Forms.Presenters;
 using NinjaMvxForms.Forms.Services;
 using UIKit;
 using Xamarin.Forms;
 
 namespace NinjaMvxForms.iOS.Presenters
 {
-    public class MvxFormsTouchPagePresenter
-        : MvxFormsPagePresenter
+    public class MvxFormsTouchViewPresenter
+        : MvxFormsBaseViewPresenter
         , IMvxTouchViewPresenter
     {
         private readonly UIWindow _window;
 
-        public MvxFormsTouchPagePresenter(Xamarin.Forms.Application mvxFormsApp, IViewModelService viewModelService, IPageService pageService, UIWindow window)
-            : base(mvxFormsApp, viewModelService, pageService)
+        public MvxFormsTouchViewPresenter(MvxFormsApp mvxFormsApp, UIWindow window, IViewModelService viewModelSuffixService = null, IPageService pageService = null)
+            : base(mvxFormsApp, viewModelSuffixService, pageService)
         {
             _window = window;
         }

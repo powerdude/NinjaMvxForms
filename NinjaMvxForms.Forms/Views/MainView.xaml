@@ -2,11 +2,7 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="NinjaMvxForms.Forms.Views.MainView"
-             xmlns:viewModels="clr-namespace:NinjaMvxForms.Core.ViewModels;assembly=NinjaMvxForms.Core"
              Title="MainView Page">
-  <ContentPage.BindingContext>
-		<viewModels:MainViewModel />
-	</ContentPage.BindingContext>
   <ContentView>
         <Label Text='{Binding SampleText}' VerticalOptions='Center' HorizontalOptions='Center'/>
   </ContentView>

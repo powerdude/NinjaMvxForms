@@ -59,12 +59,7 @@ namespace NinjaMvxForms.WindowsPhone
         {
             Xamarin.Forms.Forms.Init();
 
-            var mvxFormsApp = new MvxFormsApp();
-
-            var presenter = new MvxFormsWindowsPhonePagePresenter(mvxFormsApp,
-                new ViewModelService(),
-                new PageService(),
-                rootFrame);
+            var presenter = new MvxFormsWindowsPhoneViewPresenter(new MvxFormsApp(), rootFrame);
             Mvx.RegisterSingleton<IMvxViewPresenter>(presenter);
 
             return presenter;

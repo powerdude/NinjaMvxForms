@@ -19,10 +19,10 @@ namespace NinjaMvxForms.Forms.Services
         /// <summary>
         /// Gets the page.
         /// </summary>
-        /// <param name="request">The request.</param>
+        /// <param name="viewModelType"></param>
         /// <returns>
         /// A Page.
         /// </returns>
-        Page GetPage(MvxViewModelRequest request);
+        Page GetPage(Type viewModelType);
     }
 }

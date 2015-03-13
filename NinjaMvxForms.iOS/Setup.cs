@@ -4,21 +4,20 @@
 // </summary>
 // --------------------------------------------------------------------------------------------------------------------
 
+using Cirrious.CrossCore;
 using Cirrious.CrossCore.Platform;
+using Cirrious.MvvmCross.Touch.Platform;
+using Cirrious.MvvmCross.Touch.Views.Presenters;
+using Cirrious.MvvmCross.ViewModels;
+using Cirrious.MvvmCross.Views;
+using NinjaMvxForms.Core;
 using NinjaMvxForms.Forms;
+using NinjaMvxForms.iOS.Presenters;
 using NinjaMvxForms.WindowsPhone;
 using UIKit;
 
 namespace NinjaMvxForms.iOS
 {
-    using Cirrious.MvvmCross.Touch.Platform;
-    using Cirrious.MvvmCross.Touch.Views.Presenters;
-    using Cirrious.MvvmCross.ViewModels;
-
-	using Core.Services;
-    using Forms.Services;
-    using Presenters;
-
     /// <summary>
     ///    Defines the Setup type.
     /// </summary>
@@ -40,7 +39,7 @@ namespace NinjaMvxForms.iOS
         /// <returns>An instance of IMvxApplication</returns>
         protected override IMvxApplication CreateApp()
         {
-            return new Core.App();
+            return new App();
         }
 
         /// <summary>
@@ -60,12 +59,10 @@ namespace NinjaMvxForms.iOS
         {
             Xamarin.Forms.Forms.Init();
 
-            var mvxFormsApp = new MvxFormsApp();
+            var presenter = new MvxFormsTouchViewPresenter(new MvxFormsApp(), Window);
+            Mvx.RegisterSingleton<IMvxViewPresenter>(presenter);
 
-            return new MvxFormsTouchPagePresenter(mvxFormsApp,
-                new ViewModelService(),
-                new PageService(),
-                Window);
+            return presenter;
         }
     }
 }

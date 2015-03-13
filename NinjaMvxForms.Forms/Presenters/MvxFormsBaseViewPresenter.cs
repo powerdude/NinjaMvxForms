@@ -6,31 +6,20 @@ using NinjaMvxForms.Core.Services;
 using NinjaMvxForms.Forms.Services;
 using Xamarin.Forms;
 
-namespace NinjaMvxForms.Forms
+namespace NinjaMvxForms.Forms.Presenters
 {
-    public class MvxFormsPagePresenter
+    public abstract class MvxFormsBaseViewPresenter
         : IMvxViewPresenter
     {
-        /// <summary>
-        /// The view model service.
-        /// </summary>
-        protected readonly IViewModelService ViewModelService;
+        private readonly IViewModelService _viewModelService;
+        private readonly IPageService _pageService;
+        public readonly Application MvxFormsApp;
 
-        /// <summary>
-        /// The page service.
-        /// </summary>
-        protected readonly IPageService PageService;
-
-        /// <summary>
-        /// The MvxFormsApp instance
-        /// </summary>
-        public Application MvxFormsApp { get; private set; }
-
-        public MvxFormsPagePresenter(Application mvxFormsApp, IViewModelService viewModelService, IPageService pageService)
+        protected MvxFormsBaseViewPresenter(Application mvxFormsApp, IViewModelService viewModelSuffixService = null, IPageService pageService = null)
         {
             MvxFormsApp = mvxFormsApp;
-            ViewModelService = viewModelService;
-            PageService = pageService;
+            _viewModelService = viewModelSuffixService ?? new ViewModelService();
+            _pageService = pageService ?? new PageService();
         }
 
         public async void ChangePresentation(MvxPresentationHint hint)
@@ -41,7 +30,7 @@ namespace NinjaMvxForms.Forms
 
             if (mainPage == null)
             {
-                Mvx.TaggedTrace("MvxFormsPresenter:ChangePresentation()", "Shit, son! Don't know what to do");
+                Mvx.TaggedTrace("MvxFormsViewPresenter:ChangePresentation()", "Shit, son! Don't know what to do");
             }
             else
             {
@@ -59,18 +48,18 @@ namespace NinjaMvxForms.Forms
 
         private async Task<bool> TryShowPage(MvxViewModelRequest request)
         {
-            var page = PageService.GetPage(request);
-            if (page == null)
-                return false;
+            var page = _pageService.GetPage(request.ViewModelType);
+            if (page == null) return false;
 
-            var viewModel = ViewModelService.GetViewModel(request);
+            var viewModel = _viewModelService.GetViewModel(request);
+            if (viewModel == null) return false;
 
             var mainPage = MvxFormsApp.MainPage as NavigationPage;
 
             if (mainPage == null)
             {
                 MvxFormsApp.MainPage = new NavigationPage(page);
-                mainPage = (NavigationPage) MvxFormsApp.MainPage;
+                mainPage = (NavigationPage)MvxFormsApp.MainPage;
                 CustomPlatformInitialization(mainPage);
             }
             else

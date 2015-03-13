@@ -18,31 +18,39 @@ namespace NinjaMvxForms.Forms.Services
     /// </summary>
     public class PageService : IPageService
     {
+        private readonly string _viewSuffix;
+
+        public PageService(string viewSuffix = "View")
+        {
+            _viewSuffix = viewSuffix;
+        }
+
         /// <summary>
         /// Gets the page.
         /// </summary>
-        /// <param name="request">The request.</param>
+        /// <param name="viewModelType">Type of the view model.</param>
         /// <returns>
         /// A Page.
         /// </returns>
-        public Page GetPage(MvxViewModelRequest request)
+        public Page GetPage(Type viewModelType)
         {
-            var viewModelName = request.ViewModelType.Name;
-            var viewName = viewModelName.Replace("ViewModel", "View");
-            var view = typeof(PageService).GetTypeInfo().Assembly.DefinedTypes.FirstOrDefault(x => x.Name == viewName);
-            if (view == null)
+            var viewName = viewModelType.Name.Replace("ViewModel", _viewSuffix);
+
+            var assembly = typeof(PageService).GetTypeInfo().Assembly;
+
+            var typeInfo = assembly.DefinedTypes.FirstOrDefault(x => x.Name == viewName);
+
+            if (typeInfo == null) return null;
+
+            var type = typeInfo.AsType();
+
+            if (type == null)
             {
-                Mvx.Trace("View not found for {0}", viewName);
+                Mvx.Error("Failed to create Page {0}", viewName);
                 return null;
             }
 
-            var page = Activator.CreateInstance(view.AsType()) as Page;
-            if (page == null)
-            {
-                Mvx.Error("Failed to create ContentPage {0}", viewName);
-            }
-
-            return page;
+            return Activator.CreateInstance(type) as Page;
         }
     }
 }

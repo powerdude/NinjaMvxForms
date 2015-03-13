@@ -12,10 +12,8 @@ using Cirrious.MvvmCross.Droid.Views;
 using Cirrious.MvvmCross.ViewModels;
 using Cirrious.MvvmCross.Views;
 using NinjaMvxForms.Core;
-using NinjaMvxForms.Core.Services;
 using NinjaMvxForms.Droid.Presenters;
 using NinjaMvxForms.Forms;
-using NinjaMvxForms.Forms.Services;
 
 namespace NinjaMvxForms.Droid
 {
@@ -57,10 +55,7 @@ namespace NinjaMvxForms.Droid
         /// <returns></returns>
         protected override IMvxAndroidViewPresenter CreateViewPresenter()
         {
-            var mvxFormsApp = new MvxFormsApp();
-            var presenter = new MvxFormsAndroidPagePresenter(mvxFormsApp,
-                new ViewModelService(),
-                new PageService());
+            var presenter = new MvxFormsAndroidViewPresenter(new MvxFormsApp());
             Mvx.RegisterSingleton<IMvxViewPresenter>(presenter);
 
             return presenter;

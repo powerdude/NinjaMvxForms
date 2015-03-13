@@ -6,7 +6,6 @@
 
 using System;
 using Cirrious.CrossCore;
-using NinjaMvxForms.Forms.Views;
 using Xamarin.Forms;
 
 namespace NinjaMvxForms.Forms
@@ -26,8 +25,6 @@ namespace NinjaMvxForms.Forms
         public MvxFormsApp()
         {
             Mvx.TaggedTrace("MvxFormsApp", "Constructor");
-
-            MainPage = new MainView();
         }
 
 		/// <summary>
