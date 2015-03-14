@@ -1,9 +1,10 @@
-﻿using System.Threading.Tasks;
+﻿using System;
+using System.Linq;
+using System.Reflection;
+using System.Threading.Tasks;
 using Cirrious.CrossCore;
 using Cirrious.MvvmCross.ViewModels;
 using Cirrious.MvvmCross.Views;
-using NinjaMvxForms.Core.Services;
-using NinjaMvxForms.Forms.Services;
 using Xamarin.Forms;
 
 namespace NinjaMvxForms.Forms.Presenters
@@ -11,15 +12,13 @@ namespace NinjaMvxForms.Forms.Presenters
     public abstract class MvxFormsBaseViewPresenter
         : IMvxViewPresenter
     {
-        private readonly IViewModelService _viewModelService;
-        private readonly IPageService _pageService;
+        private readonly string _viewSuffix;
         public readonly Application MvxFormsApp;
 
-        protected MvxFormsBaseViewPresenter(Application mvxFormsApp, IViewModelService viewModelSuffixService = null, IPageService pageService = null)
+        protected MvxFormsBaseViewPresenter(Application mvxFormsApp, string viewSuffix = "View")
         {
             MvxFormsApp = mvxFormsApp;
-            _viewModelService = viewModelSuffixService ?? new ViewModelService();
-            _pageService = pageService ?? new PageService();
+            _viewSuffix = viewSuffix;
         }
 
         public async void ChangePresentation(MvxPresentationHint hint)
@@ -48,10 +47,24 @@ namespace NinjaMvxForms.Forms.Presenters
 
         private async Task<bool> TryShowPage(MvxViewModelRequest request)
         {
-            var page = _pageService.GetPage(request.ViewModelType);
-            if (page == null) return false;
+            var viewModelName = request.ViewModelType.Name;
+            var viewName = viewModelName.Replace("ViewModel", _viewSuffix);
+            var view = typeof(MvxFormsBaseViewPresenter).GetTypeInfo().Assembly.DefinedTypes.FirstOrDefault(x => x.Name == viewName);
+            if (view == null)
+            {
+                Mvx.Trace("View not found for {0}", viewName);
+                return false;
+            }
 
-            var viewModel = _viewModelService.GetViewModel(request);
+            var page = Activator.CreateInstance(view.AsType()) as ContentPage;
+            if (page == null)
+            {
+                Mvx.Error("Failed to create ContentPage {0}", viewName);
+            }
+            if (page == null)
+                return false;
+
+            var viewModel = Mvx.Resolve<IMvxViewModelLoader>().LoadViewModel(request, null);
             if (viewModel == null) return false;
 
             var mainPage = MvxFormsApp.MainPage as NavigationPage;

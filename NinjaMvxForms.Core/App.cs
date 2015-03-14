@@ -23,7 +23,7 @@ namespace NinjaMvxForms.Core
                 .EndingWith("Service")
                 .AsInterfaces()
                 .RegisterAsLazySingleton();
-
+            
             //// Start the app with the Main View Model.
             this.RegisterAppStart<MainViewModel>();
         }

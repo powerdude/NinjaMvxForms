@@ -47,8 +47,6 @@
   <ItemGroup>
     <Compile Include="MvxFormsApp.cs" />
     <Compile Include="Presenters\MvxFormsBaseViewPresenter.cs" />
-    <Compile Include="Services\IPageService.cs" />
-    <Compile Include="Services\PageService.cs" />
     <Compile Include="Views\MainView.xaml.cs">
       <DependentUpon>MainView.xaml</DependentUpon>
     </Compile>

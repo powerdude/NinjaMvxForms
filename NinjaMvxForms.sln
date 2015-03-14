@@ -125,8 +125,8 @@ Global
 		{B061316A-F386-4FE2-93B7-555584234FF8}.AppStore|x86.ActiveCfg = AppStore|iPhone
 		{B061316A-F386-4FE2-93B7-555584234FF8}.Debug|Any CPU.ActiveCfg = Debug|iPhone
 		{B061316A-F386-4FE2-93B7-555584234FF8}.Debug|ARM.ActiveCfg = Debug|iPhone
-		{B061316A-F386-4FE2-93B7-555584234FF8}.Debug|iPhone.ActiveCfg = Debug|iPhone
-		{B061316A-F386-4FE2-93B7-555584234FF8}.Debug|iPhone.Build.0 = Debug|iPhone
+		{B061316A-F386-4FE2-93B7-555584234FF8}.Debug|iPhone.ActiveCfg = Debug|iPhoneSimulator
+		{B061316A-F386-4FE2-93B7-555584234FF8}.Debug|iPhone.Build.0 = Debug|iPhoneSimulator
 		{B061316A-F386-4FE2-93B7-555584234FF8}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
 		{B061316A-F386-4FE2-93B7-555584234FF8}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
 		{B061316A-F386-4FE2-93B7-555584234FF8}.Debug|Mixed Platforms.ActiveCfg = Debug|iPhoneSimulator

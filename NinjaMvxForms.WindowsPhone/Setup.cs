@@ -11,9 +11,7 @@ using Cirrious.MvvmCross.Views;
 using Cirrious.MvvmCross.WindowsPhone.Platform;
 using Cirrious.MvvmCross.WindowsPhone.Views;
 using Microsoft.Phone.Controls;
-using NinjaMvxForms.Core.Services;
 using NinjaMvxForms.Forms;
-using NinjaMvxForms.Forms.Services;
 using NinjaMvxForms.WindowsPhone.Presenters;
 
 namespace NinjaMvxForms.WindowsPhone
