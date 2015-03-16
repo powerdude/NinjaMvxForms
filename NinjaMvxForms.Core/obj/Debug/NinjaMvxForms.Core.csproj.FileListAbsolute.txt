@@ -1,0 +1,20 @@
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.Core\bin\Debug\NinjaMvxForms.Core.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.Core\bin\Debug\NinjaMvxForms.Core.pdb
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.Core\bin\Debug\Cirrious.CrossCore.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.Core\bin\Debug\Cirrious.MvvmCross.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.Core\bin\Debug\Cirrious.MvvmCross.Localization.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.Core\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.Core\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.Core\obj\Debug\NinjaMvxForms.Core.csprojResolveAssemblyReference.cache
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.Core\obj\Debug\NinjaMvxForms.Core.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.Core\obj\Debug\NinjaMvxForms.Core.pdb
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.Core\bin\Debug\NinjaMvxForms.Core.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.Core\bin\Debug\NinjaMvxForms.Core.pdb
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.Core\bin\Debug\Cirrious.CrossCore.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.Core\bin\Debug\Cirrious.MvvmCross.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.Core\bin\Debug\Cirrious.MvvmCross.Localization.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.Core\bin\Debug\Xamarin.Forms.Core.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.Core\bin\Debug\Xamarin.Forms.Core.xml
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.Core\obj\Debug\NinjaMvxForms.Core.csprojResolveAssemblyReference.cache
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.Core\obj\Debug\NinjaMvxForms.Core.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.Core\obj\Debug\NinjaMvxForms.Core.pdb

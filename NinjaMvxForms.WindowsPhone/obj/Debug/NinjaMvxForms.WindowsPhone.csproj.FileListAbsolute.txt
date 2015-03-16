@@ -1,0 +1,180 @@
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\ApplicationIcon.png
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\Background.png
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\NinjaMvxForms.WindowsPhone.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\NinjaMvxForms.WindowsPhone.pdb
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\AppManifest.xaml
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\NinjaMvxForms.WindowsPhone._Debug_AnyCPU.xap
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\Cirrious.CrossCore.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\Cirrious.CrossCore.WindowsPhone.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\Cirrious.MvvmCross.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\Cirrious.MvvmCross.Localization.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\Cirrious.MvvmCross.WindowsPhone.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\NinjaMvxForms.Core.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\NinjaMvxForms.Forms.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\Xamarin.Forms.Platform.WP8.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\NinjaMvxForms.Core.pdb
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\NinjaMvxForms.Forms.pdb
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.WindowsPhone\obj\Debug\NinjaMvxForms.WindowsPhone.csprojResolveAssemblyReference.cache
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.WindowsPhone\obj\Debug\App.g.cs
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.WindowsPhone\obj\Debug\MainPage.g.cs
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.WindowsPhone\obj\Debug\NinjaMvxForms.WindowsPhone.g.resources
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.WindowsPhone\obj\Debug\NinjaMvxForms.WindowsPhone.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.WindowsPhone\obj\Debug\NinjaMvxForms.WindowsPhone.pdb
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.WindowsPhone\obj\Debug\XapCacheFile.xml
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\ApplicationIcon.png
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\Background.png
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\NinjaMvxForms.WindowsPhone.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\NinjaMvxForms.WindowsPhone.pdb
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\AppManifest.xaml
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\Properties\WMAppManifest.xml
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\NinjaMvxForms.WindowsPhone._Debug_AnyCPU.xap
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\Cirrious.CrossCore.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\Cirrious.CrossCore.WindowsPhone.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\Cirrious.MvvmCross.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\Cirrious.MvvmCross.Localization.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\Cirrious.MvvmCross.WindowsPhone.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\NinjaMvxForms.Core.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\NinjaMvxForms.Forms.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\Xamarin.Forms.Core.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\Xamarin.Forms.Platform.WP8.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\System.Windows.Interactivity.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\NinjaMvxForms.Core.pdb
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\NinjaMvxForms.Forms.pdb
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\Xamarin.Forms.Core.xml
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\ru\System.Windows.Interactivity.resources.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.WindowsPhone\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.WindowsPhone\obj\Debug\NinjaMvxForms.WindowsPhone.csprojResolveAssemblyReference.cache
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.WindowsPhone\obj\Debug\App.g.cs
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.WindowsPhone\obj\Debug\MainPage.g.cs
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.WindowsPhone\obj\Debug\NinjaMvxForms.WindowsPhone.g.resources
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.WindowsPhone\obj\Debug\NinjaMvxForms.WindowsPhone.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.WindowsPhone\obj\Debug\NinjaMvxForms.WindowsPhone.pdb
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.WindowsPhone\obj\Debug\XapCacheFile.xml

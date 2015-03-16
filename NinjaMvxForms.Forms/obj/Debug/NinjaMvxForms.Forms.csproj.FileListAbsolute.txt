@@ -1,0 +1,29 @@
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.Forms\bin\Debug\NinjaMvxForms.Forms.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.Forms\bin\Debug\NinjaMvxForms.Forms.pdb
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.Forms\bin\Debug\Cirrious.CrossCore.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.Forms\bin\Debug\Cirrious.MvvmCross.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.Forms\bin\Debug\NinjaMvxForms.Core.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.Forms\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.Forms\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.Forms\bin\Debug\NinjaMvxForms.Core.pdb
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.Forms\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.Forms\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.Forms\obj\Debug\NinjaMvxForms.Forms.csprojResolveAssemblyReference.cache
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.Forms\obj\Debug\MainView.xaml.g.cs
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.Forms\obj\Debug\NinjaMvxForms.Forms.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.Forms\obj\Debug\NinjaMvxForms.Forms.pdb
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.Forms\bin\Debug\NinjaMvxForms.Forms.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.Forms\bin\Debug\NinjaMvxForms.Forms.pdb
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.Forms\bin\Debug\Cirrious.CrossCore.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.Forms\bin\Debug\Cirrious.MvvmCross.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.Forms\bin\Debug\NinjaMvxForms.Core.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.Forms\bin\Debug\Xamarin.Forms.Core.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.Forms\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.Forms\bin\Debug\NinjaMvxForms.Core.pdb
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.Forms\bin\Debug\Xamarin.Forms.Core.xml
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.Forms\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.Forms\obj\Debug\NinjaMvxForms.Forms.csprojResolveAssemblyReference.cache
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.Forms\obj\Debug\MainView.xaml.g.cs
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.Forms\obj\Debug\NinjaMvxForms.Forms.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.Forms\obj\Debug\NinjaMvxForms.Forms.pdb
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.Forms\bin\Debug\Cirrious.MvvmCross.Localization.dll

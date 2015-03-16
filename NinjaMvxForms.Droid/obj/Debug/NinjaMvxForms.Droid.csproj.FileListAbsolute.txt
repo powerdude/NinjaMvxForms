@@ -1,0 +1,80 @@
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.Droid\bin\Debug\NinjaMvxForms.Droid.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.Droid\bin\Debug\NinjaMvxForms.Droid.pdb
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.Droid\bin\Debug\NinjaMvxForms.Droid.dll.mdb
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.Droid\bin\Debug\NinjaMvxForms.Droid.apk
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.Droid\bin\Debug\NinjaMvxForms.Droid-Signed.apk
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.Droid\bin\Debug\Cirrious.CrossCore.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.Droid\bin\Debug\Cirrious.CrossCore.Droid.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.Droid\bin\Debug\Cirrious.MvvmCross.Binding.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.Droid\bin\Debug\Cirrious.MvvmCross.Binding.Droid.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.Droid\bin\Debug\Cirrious.MvvmCross.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.Droid\bin\Debug\Cirrious.MvvmCross.Droid.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.Droid\bin\Debug\Cirrious.MvvmCross.Localization.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.Droid\bin\Debug\FormsViewGroup.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.Droid\bin\Debug\NinjaMvxForms.Core.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.Droid\bin\Debug\NinjaMvxForms.Forms.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.Droid\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.Droid\bin\Debug\NinjaMvxForms.Core.pdb
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.Droid\bin\Debug\NinjaMvxForms.Forms.pdb
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.Droid\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.Droid\obj\Debug\NinjaMvxForms.Droid.csprojResolveAssemblyReference.cache
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.Droid\obj\Debug\NinjaMvxForms.Droid.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.Droid\obj\Debug\NinjaMvxForms.Droid.pdb
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.Droid\obj\Debug\android\bin\NinjaMvxForms.Droid.apk
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.Droid\obj\Debug\res\layout\splashscreen.xml
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.Droid\obj\Debug\res\values\strings.xml
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.Droid\obj\Debug\res\drawable\icon.png
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.Droid\obj\Debug\res\values\mvxbindingattributes.xml
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.Droid\obj\Debug\R.cs.flag
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.Droid\obj\Debug\uploadflags.txt
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.Droid\bin\Debug\NinjaMvxForms.Core.dll.mdb
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.Droid\bin\Debug\NinjaMvxForms.Forms.dll.mdb
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.Droid\obj\Debug\res\values\splashstyle.xml
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.Droid\obj\Debug\res\drawable\splash.png
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.Droid\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\NinjaMvxForms\NinjaMvxForms.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.Droid\bin\Debug\NinjaMvxForms.Droid.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.Droid\bin\Debug\NinjaMvxForms.Droid.pdb
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.Droid\bin\Debug\NinjaMvxForms.Droid.dll.mdb
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.Droid\bin\Debug\NinjaMvxForms.Droid.apk
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.Droid\bin\Debug\NinjaMvxForms.Droid-Signed.apk
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.Droid\bin\Debug\Cirrious.CrossCore.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.Droid\bin\Debug\Cirrious.CrossCore.Droid.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.Droid\bin\Debug\Cirrious.MvvmCross.Binding.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.Droid\bin\Debug\Cirrious.MvvmCross.Binding.Droid.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.Droid\bin\Debug\Cirrious.MvvmCross.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.Droid\bin\Debug\Cirrious.MvvmCross.Droid.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.Droid\bin\Debug\Cirrious.MvvmCross.Localization.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.Droid\bin\Debug\FormsViewGroup.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.Droid\bin\Debug\NinjaMvxForms.Core.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.Droid\bin\Debug\NinjaMvxForms.Forms.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.Droid\bin\Debug\Xamarin.Forms.Core.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.Droid\bin\Debug\NinjaMvxForms.Core.pdb
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.Droid\bin\Debug\NinjaMvxForms.Core.dll.mdb
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.Droid\bin\Debug\NinjaMvxForms.Forms.pdb
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.Droid\bin\Debug\NinjaMvxForms.Forms.dll.mdb
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.Droid\bin\Debug\Xamarin.Forms.Core.xml
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.Droid\obj\Debug\NinjaMvxForms.Droid.csprojResolveAssemblyReference.cache
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.Droid\obj\Debug\NinjaMvxForms.Droid.dll
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.Droid\obj\Debug\NinjaMvxForms.Droid.pdb
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.Droid\obj\Debug\android\bin\NinjaMvxForms.Droid.apk
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.Droid\obj\Debug\res\layout\splashscreen.xml
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.Droid\obj\Debug\res\values\strings.xml
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.Droid\obj\Debug\res\values\mvxbindingattributes.xml
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.Droid\obj\Debug\res\values\splashstyle.xml
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.Droid\obj\Debug\res\drawable\splash.png
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.Droid\obj\Debug\res\drawable\icon.png
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.Droid\obj\Debug\res\drawable-hdpi\icon.png
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.Droid\obj\Debug\R.cs.flag
+D:\Visual Studio\GitHub\MobiliTips\NinjaMvxForms\NinjaMvxForms.Droid\obj\Debug\uploadflags.txt
