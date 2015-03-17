@@ -8,7 +8,7 @@ using System;
 using Cirrious.CrossCore;
 using Xamarin.Forms;
 
-namespace NinjaMvxForms.Forms
+namespace NinjaMvxForms.Core
 {
     /// <summary>
     /// Defines the App type.

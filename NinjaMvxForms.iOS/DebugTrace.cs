@@ -2,7 +2,7 @@
 using System.Diagnostics;
 using Cirrious.CrossCore.Platform;
 
-namespace NinjaMvxForms.WindowsPhone
+namespace NinjaMvxForms.iOS
 {
     public class DebugTrace : IMvxTrace
     {

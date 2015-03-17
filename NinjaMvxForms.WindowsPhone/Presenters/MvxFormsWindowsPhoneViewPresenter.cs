@@ -7,7 +7,9 @@
 using System;
 using Cirrious.MvvmCross.WindowsPhone.Views;
 using Microsoft.Phone.Controls;
-using NinjaMvxForms.Forms.Presenters;
+using NinjaMvxForms.Core.Presenters;
+using NinjaMvxForms.Core.Services.View;
+using NinjaMvxForms.Forms.Services.View;
 using Xamarin.Forms;
 
 namespace NinjaMvxForms.WindowsPhone.Presenters
@@ -21,8 +23,8 @@ namespace NinjaMvxForms.WindowsPhone.Presenters
     {
         private readonly PhoneApplicationFrame _rootFrame;
 
-        public MvxFormsWindowsPhoneViewPresenter(Application mvxFormsApp, PhoneApplicationFrame rootFrame, string viewSuffix = "View")
-            : base(mvxFormsApp, viewSuffix)
+        public MvxFormsWindowsPhoneViewPresenter(Application mvxFormsApp, PhoneApplicationFrame rootFrame, IViewService viewService = null)
+            : base(mvxFormsApp, viewService ?? new ViewService())
         {
             _rootFrame = rootFrame;
         }

@@ -11,9 +11,7 @@ using Cirrious.MvvmCross.Touch.Views.Presenters;
 using Cirrious.MvvmCross.ViewModels;
 using Cirrious.MvvmCross.Views;
 using NinjaMvxForms.Core;
-using NinjaMvxForms.Forms;
 using NinjaMvxForms.iOS.Presenters;
-using NinjaMvxForms.WindowsPhone;
 using UIKit;
 
 namespace NinjaMvxForms.iOS

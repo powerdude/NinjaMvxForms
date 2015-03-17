@@ -13,7 +13,6 @@ using Cirrious.MvvmCross.ViewModels;
 using Cirrious.MvvmCross.Views;
 using NinjaMvxForms.Core;
 using NinjaMvxForms.Droid.Presenters;
-using NinjaMvxForms.Forms;
 
 namespace NinjaMvxForms.Droid
 {
