@@ -1,6 +1,6 @@
 // --------------------------------------------------------------------------------------------------------------------
 // <summary>
-//    Defines the App type.
+//    Defines the XamarinFormsApp type.
 // </summary>
 // --------------------------------------------------------------------------------------------------------------------
 
@@ -11,7 +11,7 @@ using Xamarin.Forms;
 namespace NinjaMvxForms.Forms
 {
     /// <summary>
-    /// Defines the App type.
+    /// Defines the XamarinFormsApp type.
     /// </summary>
     public class XamarinFormsApp : Application
     {
