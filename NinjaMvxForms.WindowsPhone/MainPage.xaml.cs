@@ -14,7 +14,7 @@ namespace NinjaMvxForms.WindowsPhone
             var presenter = Mvx.Resolve<IMvxViewPresenter>() as MvxFormsWindowsPhoneViewPresenter;
             if (presenter == null) return;
 
-            LoadApplication(presenter.MvxFormsApp);
+            LoadApplication(presenter.XamarinFormsApp);
         }
     }
 }

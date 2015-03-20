@@ -12,6 +12,7 @@ using Cirrious.MvvmCross.WindowsPhone.Platform;
 using Cirrious.MvvmCross.WindowsPhone.Views;
 using Microsoft.Phone.Controls;
 using NinjaMvxForms.Core;
+using NinjaMvxForms.Forms;
 using NinjaMvxForms.WindowsPhone.Presenters;
 
 namespace NinjaMvxForms.WindowsPhone
@@ -57,7 +58,7 @@ namespace NinjaMvxForms.WindowsPhone
         {
             Xamarin.Forms.Forms.Init();
 
-            var presenter = new MvxFormsWindowsPhoneViewPresenter(new MvxFormsApp(), rootFrame);
+            var presenter = new MvxFormsWindowsPhoneViewPresenter(new XamarinFormsApp(), rootFrame);
             Mvx.RegisterSingleton<IMvxViewPresenter>(presenter);
 
             return presenter;

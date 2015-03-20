@@ -100,7 +100,7 @@
   <ItemGroup>
     <Compile Include="DebugTrace.cs" />
     <Compile Include="LinkerPleaseInclude.cs" />
-    <Compile Include="MvxFormsApplicationActivity.cs" />
+    <Compile Include="MainActivity.cs" />
     <Compile Include="Presenters\MvxFormsAndroidViewPresenter.cs" />
     <Compile Include="Resources\Resource.Designer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

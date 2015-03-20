@@ -2,7 +2,6 @@
 using System.Diagnostics;
 using System.Linq;
 using System.Reflection;
-using NinjaMvxForms.Core.Services.View;
 using Xamarin.Forms;
 
 namespace NinjaMvxForms.Forms.Services.View

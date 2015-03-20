@@ -13,6 +13,7 @@ using Cirrious.MvvmCross.ViewModels;
 using Cirrious.MvvmCross.Views;
 using NinjaMvxForms.Core;
 using NinjaMvxForms.Droid.Presenters;
+using NinjaMvxForms.Forms;
 
 namespace NinjaMvxForms.Droid
 {
@@ -54,7 +55,7 @@ namespace NinjaMvxForms.Droid
         /// <returns></returns>
         protected override IMvxAndroidViewPresenter CreateViewPresenter()
         {
-            var presenter = new MvxFormsAndroidViewPresenter(new MvxFormsApp());
+            var presenter = new MvxFormsAndroidViewPresenter(new XamarinFormsApp());
             Mvx.RegisterSingleton<IMvxViewPresenter>(presenter);
 
             return presenter;

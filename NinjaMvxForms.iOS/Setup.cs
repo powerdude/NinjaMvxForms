@@ -11,6 +11,7 @@ using Cirrious.MvvmCross.Touch.Views.Presenters;
 using Cirrious.MvvmCross.ViewModels;
 using Cirrious.MvvmCross.Views;
 using NinjaMvxForms.Core;
+using NinjaMvxForms.Forms;
 using NinjaMvxForms.iOS.Presenters;
 using UIKit;
 
@@ -57,7 +58,7 @@ namespace NinjaMvxForms.iOS
         {
             Xamarin.Forms.Forms.Init();
 
-            var presenter = new MvxFormsTouchViewPresenter(new MvxFormsApp(), Window);
+            var presenter = new MvxFormsTouchViewPresenter(new XamarinFormsApp(), Window);
             Mvx.RegisterSingleton<IMvxViewPresenter>(presenter);
 
             return presenter;

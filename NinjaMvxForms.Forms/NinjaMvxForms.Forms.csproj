@@ -45,6 +45,8 @@
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="XamarinFormsApp.cs" />
+    <Compile Include="Services\View\IViewService.cs" />
     <Compile Include="Services\View\ViewService.cs" />
     <Compile Include="Views\MainView.xaml.cs">
       <DependentUpon>MainView.xaml</DependentUpon>

@@ -1,6 +1,6 @@
 ﻿using Xamarin.Forms;
 
-namespace NinjaMvxForms.Core.Services.View
+namespace NinjaMvxForms.Forms.Services.View
 {
     public interface IViewService
     {
